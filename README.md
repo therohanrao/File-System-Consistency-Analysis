@@ -3,6 +3,6 @@ Tool that emulates the popular system utility tool "fsck". Summarizes an Ext2 Fi
 
 The tool is split into two parts
 
-- Part A: Analyzes file system and reports values corresponding to the format found in https://github.com/therohanrao/File-System-Consistency-Analysis/blob/master/Project3A/trivial.csv
+- Part A: Analyzes file system and reports values corresponding to the format found in [trivial.csv](https://github.com/therohanrao/File-System-Consistency-Analysis/blob/master/Project3A/trivial.csv)
 
 - Part B: Analyzes file system and generates report in plain english describing inconsistencies
